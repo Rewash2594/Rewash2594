@@ -113,3 +113,31 @@ If you are reading this, you are not seeing a finished professional.
 You are seeing a **trajectory**.
 
 And that is intentional.
+
+---
+
+## How to Read This GitHub
+
+This GitHub profile is designed to be read as a system, not as isolated projects.
+
+If you want to understand how I think about security, start here:
+
+1. **offensive-security-mental-models**  
+   Mental frameworks for reasoning about reconnaissance, exploitation, and post-exploitation decisions.
+
+2. **engineering-notes-and-deep-dives**  
+   Explanations of *why* security mechanisms behave the way they do, from an engineering perspective.
+
+3. **dz-security-tools**  
+   Small cognitive tools that make trust, authority, and control relationships explicit.
+
+Optional context:
+
+- **offensive-security-case-studies**  
+  Applied reasoning using realistic scenarios.
+
+- **how-i-study-cybersecurity**  
+  The learning system behind this work.
+
+Each repository reinforces the same idea:  
+security failures are best understood by modeling systems, not by chasing isolated vulnerabilities.
