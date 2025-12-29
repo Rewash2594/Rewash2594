@@ -5,6 +5,10 @@ I am building long-term capability in cybersecurity through structured thinking,
 This profile is not a collection of random projects.
 It is a **deliberate body of work** focused on understanding how control, authority, and trust propagate in real-world systems.
 
+I approach security as an offensive-minded engineer.
+My focus is not on tools or alerts, but on understanding how authority, trust, and control propagate through systems.
+I document my reasoning and build minimal artifacts to make implicit security assumptions explicit.
+
 ---
 
 ## How I Think About Security
